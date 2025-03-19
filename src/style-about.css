@@ -1,0 +1,157 @@
+  .resume-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+    font-weight: bold;
+  }
+  
+  .resume-btn:hover {
+    background-color: #0056b3;
+  }
+
+   .career h2 {
+    color: rgb(75, 54, 192);
+    margin-top: 50px;
+   }
+
+   .career p {
+    font-size: 18px;
+    line-height: 30px;
+    margin-left: 30px;
+   }
+
+   .education-section {
+    width: 100%;
+    margin: 30px auto;
+    text-align: justify;
+    color: rgb(75, 54, 192);
+  }
+  
+  table {
+    width: auto;
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-left: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  th, td {
+    border: 1px solid #101010;
+    padding: 12px;
+    text-align: justify;
+    color: black;
+  }
+  
+  th {
+    color: rgba(13, 13, 13, 0.93);
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  td {
+    font-size: 16px;
+    text-align: left;
+  }
+  
+  .technical {
+    width: 50%;
+    text-align: left;
+    color: rgb(75, 54, 192);
+  }
+
+  .skills h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .skill {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: black;
+    margin-left: 30px;
+    margin-right: 350px;
+  }
+  
+  .stars {
+    color: rgb(48, 44, 26);
+    font-size: 20px;
+  }
+
+  .certification h2{
+    color: rgb(75, 54, 192);
+    margin-bottom: 20px;
+  }
+
+  .row {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 50px;
+  }
+
+  .cert {
+    text-align: center;
+    flex: 50%;
+  }
+
+  .cert p {
+    text-align: justify;
+    padding-left: 40px;
+    padding-bottom: 20px;
+  }
+
+  .cert-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .cert-img {
+    height: 350px;
+    width: auto;
+    border-radius: 10px;
+  }
+
+  .link {
+    padding-bottom: 50px;
+  }
+
+  .contact-info {
+    justify-content: left;
+    display: flex;
+    gap: 15px;
+  }
+
+  .email-img {
+    justify-content: left;
+    padding-left: 25px;
+    height: 40px;
+    padding-bottom: 15px;
+  }
+
+  .mail-id {
+    font-size: 20px;
+    padding-top: 7px;
+  }
+
+  .linked-in {
+    justify-content: left;
+    padding-left: 30px;
+    height: 35px;
+    border-end-end-radius: 15px;
+  }
+
+  .linked {
+    font-size: 20px;
+    padding-top: 7px;
+  }
+  
