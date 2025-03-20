@@ -34,7 +34,7 @@ const Projects = () => {
           <div className="project-card" key={index}>
             <img src={project.image} alt={project.title} className="project-img"/>
             <h3>{project.title}</h3>
-            <p>{project.description}</p>
+            <p class="projectdes">{project.description}</p>
             <a href={project.link} target="_blank" rel="noopener noreferrer" className="project-link">
               View Project
             </a>

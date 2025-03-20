@@ -49,3 +49,7 @@ h2 {
 .project-link:hover {
     background: #0056b3;
 }
+
+.projectdes{
+    text-align: justify;
+}
